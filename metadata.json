@@ -1,0 +1,7 @@
+{
+  "name": "AEGIS Protocol",
+  "description": "The Unified Digital Citadel for IIT Mandi - Integrating Governance, Academics, and Campus Life.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
